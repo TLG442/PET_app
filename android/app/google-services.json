@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619403303511",
+    "project_id": "flutterdev-69f9a",
+    "storage_bucket": "flutterdev-69f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619403303511:android:398dd568db5dd1214fa112",
+        "android_client_info": {
+          "package_name": "com.example.petapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBkqBU716ii6pkZkK2nfolS4uA1ws6PVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
